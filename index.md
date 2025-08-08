@@ -2,7 +2,6 @@
 layout: home
 ---
 
-
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
 1. Research skill building (e.g. paper reading, communication) 
 2. Soft skill building (e.g. managing advising relationships, supporting your peers)
@@ -25,18 +24,18 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time to request an excused absence. Even if you are absent from class, you are still expected to submit the homework.
 
-**COVID & Sickness:** If you are feeling unwell or test positive, please stay home and notify the course staff.
+**Sickness:** If you are feeling unwell, please stay home and notify the course staff.
 
-**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Missing homework can also result in penalties.
+**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Each "very late" (> 15 min late) is counted as 1/2 an unexcused absence. Missing homework can also result in penalties.
 
 **Office Hours:** 
-* John: Monday 11am-12pm @ SEC 1.101
-* Martin: Thursday 9:30-10:30am @ SEC 4.305
-* Sonja: Wednesday 2:30-3:30 @ SEC 1.404
-* Sonia: Friday 1-2pm @ TBD
+* John: TBD @ SEC 1.101
+* Boaz: TBD
+* Sonja: TBD
+* Alex: TBD
 
 
-We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
