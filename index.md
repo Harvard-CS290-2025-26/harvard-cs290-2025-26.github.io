@@ -28,6 +28,10 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Each "very late" (> 15 min late) is counted as 1/2 an unexcused absence. Missing homework can also result in penalties.
 
+**Generative AI:** Policy forthcoming.
+
+**Laptops/Phones:** Policy forthcoming.
+
 **Office Hours:** 
 * John: TBD @ SEC 1.101
 * Boaz: TBD
