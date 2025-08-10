@@ -42,7 +42,7 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br/>
 
 
