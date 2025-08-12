@@ -28,9 +28,9 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Each "very late" (> 15 min late) is counted as 1/2 an unexcused absence. Missing homework can also result in penalties.
 
-**Generative AI:** Policy forthcoming.
+**Generative AI:** A central part of our work as academic computer scientists is reading, writing, and thinking. We expect you to read, write, and think yourself, and not outsource this to generative AI tools, which will slow your development of these skills. Many assignments will ask you to reflect on your experience, which generative AI is ill-equipped to address. We will not be grading on grammaticallity - the most important thing is for your work to reflect your own voice.
 
-**Laptops/Phones:** Policy forthcoming.
+**Laptops/Phones:** Laptop/tablet/phone use is acceptable when directly tied to classroom activities. We will occasionally have in-class activities that require access to a device. When not engaging in these activities (or active note-taking), please do not use your devices. If you need to quickly fact-check something, you may do so briefly, and then we ask you to stow your device. Some class periods such as student panels will be designated "no devices," even for note-taking.
 
 **Office Hours:** 
 * John: TBD @ SEC 1.101
@@ -46,6 +46,5 @@ In addition to the regularly held office hours, additional office hours with any
 <br/>
 
 
-**Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
+**Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. Your suggestions for how to better our classroom community are always encouraged and appreciated.
 
-Since a large part of this course requires students to work in groups, in alignment with our teaching mission, we ask that students explicitly reflect on and implement practices for building teams that are diverse along many axes. The teaching staff is happy to help you brainstorm how to create an inclusive and productive working culture for your team. 
