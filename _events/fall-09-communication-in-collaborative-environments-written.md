@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-11-01T09:45:00
+date: 2024-10-31T09:45:00
 name: Class
 description: 'Communication in collaborative environments (written)'
 hide_from_announcments: true

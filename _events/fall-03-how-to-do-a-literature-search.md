@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-09-27T09:45:00
+date: 2025-09-19T09:45:00
 name: Class
 description: 'How to do a literature search'
 hide_from_announcments: true
@@ -11,5 +11,5 @@ hide_from_announcments: true
 * Reflect on your own literature search strategy
 * Bring a problem statement for a current/previous research project
 
-**In Class:** \[[slides](https://docs.google.com/presentation/d/1J2gXnDc5oDqcGcJbGgQI8Yd7mbAse0ut/edit#slide=id.p1){:target="_blank"}{:rel="noopener noreferrer"}\]
+**In Class:** \[[slides](https://docs.google.com/presentation/d/162kiEbdze8iJAngOEYFnaICbKPje7QYO/edit?usp=sharing&ouid=107689014327489415446&rtpof=true&sd=true){:target="_blank"}{:rel="noopener noreferrer"}\]
 * [How to do a literature search]({{ site.baseurl }}/readings/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
