@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-04-04T09:45:00
+date: 2026-04-04T09:45:00
 name: Class
 description: 'The Qual + Faculty Panel'
 hide_from_announcments: true

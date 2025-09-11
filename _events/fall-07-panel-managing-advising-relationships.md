@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-10-18T09:45:00
+date: 2025-10-17T09:45:00
 name: Class
 description: 'Student-only Panel: Managing Advising Relationships'
 hide_from_announcments: true
@@ -14,5 +14,5 @@ hide_from_announcments: true
 
 **In Class:**
 \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Panel on managing advising relationships with: [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Roy Rinberg](https://royrinberg.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Sanket Shah](https://sanketkshah.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Shirley Zhang](https://shirleykzhang.github.io/){:target="_blank"}{:rel="noopener noreferrer"}.
+<!-- * Panel on managing advising relationships with: [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Roy Rinberg](https://royrinberg.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Sanket Shah](https://sanketkshah.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Shirley Zhang](https://shirleykzhang.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. -->
 * Special note: *no faculty present*

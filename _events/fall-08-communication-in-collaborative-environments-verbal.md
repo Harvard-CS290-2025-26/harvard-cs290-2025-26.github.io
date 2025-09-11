@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-10-25T09:45:00
+date: 2025-10-24T09:45:00
 name: Class
 description: 'Delivering research updates + elevator pitches (verbal)'
 hide_from_announcments: true

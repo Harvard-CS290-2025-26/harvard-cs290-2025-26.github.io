@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-11-22T09:45:00
+date: 2025-11-21T09:45:00
 name: Class
 description: 'A Systemic Perspective on Academic Culture: Feedback Cycles in Academic Culture'
 hide_from_announcments: true

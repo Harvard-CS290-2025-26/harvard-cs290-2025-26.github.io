@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-02-14T09:45:00
+date: 2026-02-14T09:45:00
 name: Class
 description: 'Moral and Professional Responsibility in Computing (Embedded Ethics)'
 hide_from_announcments: true
