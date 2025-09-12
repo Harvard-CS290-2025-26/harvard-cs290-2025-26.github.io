@@ -6,7 +6,7 @@ description: 'How to Craft a Research Agenda + Conclusion'
 hide_from_announcments: true
 ---
 
-<!-- **Pre-class Work:** (instructions on canvas)
+<!-- **Pre-class Work:** (instructions/submission on Canvas)
 * Revise the slides you made for the first class to include a sentence about (a) something you learned about yourself over the past year, and (b) a direction you're excited to grow in for the next year.
 
 **In Class:** 

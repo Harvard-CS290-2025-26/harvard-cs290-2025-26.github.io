@@ -6,7 +6,7 @@ description: 'The Paper Review Process / How to Critique a Paper'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * Read: 
   * [The ins and outs of reviewing](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf){:target="_blank"}{:rel="noopener noreferrer"}
   * [How NOT to review a paper The tools and techniques of the adversarial reviewer](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf){:target="_blank"}{:rel="noopener noreferrer"}

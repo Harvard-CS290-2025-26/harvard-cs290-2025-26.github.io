@@ -6,7 +6,7 @@ description: 'Introduction to Teaching, pt. 2'
 hide_from_announcments: true
 ---
 
-<!-- **Pre-class Work:** (instructions on canvas)
+<!-- **Pre-class Work:** (instructions/submission on Canvas)
 * Revisit this [list of worries and implicit expectations](https://docs.google.com/document/d/1K8hvvaL9XmoDkbzBFKALfp1l3WQVhooQ_pTSBQH5BbU/edit#){:target="_blank"}{:rel="noopener noreferrer"} we came up with as a class on our first day.
 * Answer the reflection questions
 

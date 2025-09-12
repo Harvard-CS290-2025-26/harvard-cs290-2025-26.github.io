@@ -6,7 +6,7 @@ description: 'Mental Health in Academia'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * Watch: 
   * 1:15-14:50 and 36:05-45:45 of [Professor Sapolsky's lecture on depression](https://www.youtube.com/watch?v=NOAgplgTxfc&t=75s){:target="_blank"}{:rel="noopener noreferrer"}
   * [Why Do Depression and Anxiety Go Together?](https://www.youtube.com/watch?v=xdAjGRvxGPM){:target="_blank"}{:rel="noopener noreferrer"}

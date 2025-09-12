@@ -6,7 +6,7 @@ description: 'Building a Robust CS Community'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * TBD 
 
 

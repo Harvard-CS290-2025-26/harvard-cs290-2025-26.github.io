@@ -6,7 +6,7 @@ description: 'The Qual + Faculty Panel'
 hide_from_announcments: true
 ---
 <!-- 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * None
 
 **In Class:** [[slides](https://docs.google.com/presentation/d/1iLyezVekfoY76znaQpVBQMcBLiLlgumS/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true){:target="_blank"}{:rel="noopener noreferrer"}]

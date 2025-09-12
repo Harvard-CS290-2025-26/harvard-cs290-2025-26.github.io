@@ -6,7 +6,7 @@ description: 'How to skim a research paper'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * Read [The PageRank Citation Ranking: Bringing Order to the Web](https://www.eecs.harvard.edu/~michaelm/CS222/pagerank.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * Summarize the paper, reflect on your strategy for reading the paper
 

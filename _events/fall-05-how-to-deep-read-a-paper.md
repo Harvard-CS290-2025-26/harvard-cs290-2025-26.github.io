@@ -6,9 +6,10 @@ description: 'How to deep read a paper'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
-* Review [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
-* Spend one hour reading and trying to get as much as you can out of [Randomized Approximation Schemes for Cuts and Flows in Capacitated Graphs](https://drive.google.com/file/d/1rwMLJzcmA2kUk2BN-3DIP6EAtjtdbc_Z/view). Note that the paper is too long to read entirely in one hour; use strategies like those from the paper-reading guide to figure out where to focus your attention and try to get as much value as you can in the hour. In particular, start with the introduction and try to understand what are the main contributions of the paper (both the high-level takeaways and the precise theorem statements), and then selectively delve into the technical sections as needed to improve your understanding and/or according to your interest.
+**Pre-class Work:** (instructions/submission on Canvas)
+<!-- * Review [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
+* Spend one hour reading and trying to get as much as you can out of [Randomized Approximation Schemes for Cuts and Flows in Capacitated Graphs](https://drive.google.com/file/d/1rwMLJzcmA2kUk2BN-3DIP6EAtjtdbc_Z/view). Note that the paper is too long to read entirely in one hour; use strategies like those from the paper-reading guide to figure out where to focus your attention and try to get as much value as you can in the hour. In particular, start with the introduction and try to understand what are the main contributions of the paper (both the high-level takeaways and the precise theorem statements), and then selectively delve into the technical sections as needed to improve your understanding and/or according to your interest. -->
+* TBD
 
 
 **In Class:** \[[slides](){:target="_blank"}{:rel="noopener noreferrer"}\]

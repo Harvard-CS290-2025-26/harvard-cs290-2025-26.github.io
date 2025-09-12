@@ -6,13 +6,13 @@ description: 'Introduction to Teaching, pt. 1'
 hide_from_announcments: true
 ---
 
- **Pre-class Work:** (instructions on canvas)
+ **Pre-class Work:** (instructions/submission on Canvas)
  * TBD
 
  **In Class:**
  * TBD
 
-<!-- **Pre-class Work:** (instructions on canvas)
+<!-- **Pre-class Work:** (instructions/submission on Canvas)
 * Read:
   * [Validation in Dialectical Behavior Therapy (DBT)](https://frtc.ltd/blog/dbt-validation){:target="_blank"}{:rel="noopener noreferrer"}
   * [The Jobs I Didn’t See: My Misconceptions of the Academic Job Market by Evan Peck](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422){:target="_blank"}{:rel="noopener noreferrer"}

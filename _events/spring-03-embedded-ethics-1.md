@@ -6,7 +6,7 @@ description: 'Moral and Professional Responsibility in Computing (Embedded Ethic
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 <!-- * If you wrote last week's report on your current research, ask your advisor(s) for feedback. If you wrote it about another topic, ask the course staff for feedback. -->
 <!-- * Read [Computing and Accountability](https://dl.acm.org/doi/10.1145/175222.175228){:target="_blank"}{:rel="noopener noreferrer"} and answer reflection questions. -->
 * TBD

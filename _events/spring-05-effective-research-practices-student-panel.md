@@ -12,7 +12,7 @@ hide_from_announcments: true
 * Student panel with panelists TBD
 
 <!-- 
-**Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions/submission on Canvas)
 * Read:
   * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html){:target="_blank"}{:rel="noopener noreferrer"}
   * [Silent Technical Privilege](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html){:target="_blank"}{:rel="noopener noreferrer"}
