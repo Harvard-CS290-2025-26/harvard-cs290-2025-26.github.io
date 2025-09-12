@@ -7,10 +7,11 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)
+* TBD
+
 <!-- * Read:
   * [How to make the most out of your Ph.D, Section 2: What does your advisor expect from you in your first year?](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)
 * Answer reflection questions, and think of questions to ask the panel -->
-TBD
 
 **In Class:**
 \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
