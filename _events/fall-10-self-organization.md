@@ -7,9 +7,10 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)
+* TBD
+
 <!-- * Reflect and identify a least one way that your current self-organization system is successful and one way that it can be further developed.
 * Think through and list out your commitments for this semester (or next) -->
-* TBD
 
 
 **In Class:**

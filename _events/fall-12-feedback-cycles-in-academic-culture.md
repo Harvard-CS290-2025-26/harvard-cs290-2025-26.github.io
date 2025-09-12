@@ -7,9 +7,10 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas) 
+* TBD
+
 <!-- * Watch [The Pursuit of Collective Intelligence](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f){:target="_blank"}{:rel="noopener noreferrer"}, by Professor Radhika Nagpal
 * Reflect on the past semester -->
-* TBD
 
 **In Class:** 
 <!-- \[[slides](https://docs.google.com/presentation/d/1meP0gCiMPYTJKeKbjVHZeFeoS4eAS2sAA7a69RGR7AQ/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\] Discussion about, -->
