@@ -13,6 +13,8 @@ hide_from_announcments: true
 * Reflect on the past semester -->
 
 **In Class:** 
+* TBD
+
 <!-- \[[slides](https://docs.google.com/presentation/d/1meP0gCiMPYTJKeKbjVHZeFeoS4eAS2sAA7a69RGR7AQ/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\] Discussion about, 
 * How our societal misconceptions about science hinder us from creating an inclusive community that performs useful science
 * How can we break positive feedback cycles that reinforce these misconceptions? -->
