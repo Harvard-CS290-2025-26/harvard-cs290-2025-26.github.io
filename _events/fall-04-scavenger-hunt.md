@@ -6,4 +6,4 @@ description: 'Scavenger Hunt'
 hide_from_announcments: true
 ---
 
-**TBD**
+Scav Hunt [Google Drive here!](https://drive.google.com/drive/folders/1-9w_6WxQGw4kkzq9AI7FwT3iPJ7FKhWo?usp=sharing)
