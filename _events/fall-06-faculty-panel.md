@@ -14,4 +14,5 @@ hide_from_announcments: true
 
 **In Class:**
 * Faculty panel about their expectations of students and experiences as students, as well as about their experiences as faculty
+* Guests: Professors Nada Amin, Salil Vadhan, Elena Glassman.
 <!-- * Guests: Professors [Sitan Chen](https://sitanchen.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Finale Doshi-Velez](https://finale.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, and [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/){:target="_blank"}{:rel="noopener noreferrer"}. -->
