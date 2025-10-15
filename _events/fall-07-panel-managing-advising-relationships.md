@@ -7,7 +7,7 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)
-* TBD
+* Submit questions for the panel.
 
 <!-- * Read:
   * [How to make the most out of your Ph.D, Section 2: What does your advisor expect from you in your first year?](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)
@@ -15,5 +15,5 @@ hide_from_announcments: true
 
 **In Class:**
 \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-<!-- * Panel on managing advising relationships with: [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Roy Rinberg](https://royrinberg.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Sanket Shah](https://sanketkshah.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Shirley Zhang](https://shirleykzhang.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. -->
+* Panel on managing advising relationships with: [Usha Bhalla](https://ushabhalla.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Daniel Garces](https://react.seas.harvard.edu/people/daniel-garces){:target="_blank"}{:rel="noopener noreferrer"}, [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"} and [Jake Ruotolo](https://www.jakeruotolo.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 * Special note: *no faculty present*
