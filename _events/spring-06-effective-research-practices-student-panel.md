@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-02-28T09:45:00
+date: 2026-03-06T09:45:00
 name: Class
 description: 'Student-only Panel: Effective Research Practices'
 hide_from_announcments: true

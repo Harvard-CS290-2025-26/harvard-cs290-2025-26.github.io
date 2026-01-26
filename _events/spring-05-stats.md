@@ -1,8 +1,8 @@
 ---
 type: raw_event
-date: 2026-02-14T09:45:00
+date: 2026-02-27T09:45:00
 name: Class
-description: 'Moral and Professional Responsibility in Computing (Embedded Ethics)'
+description: 'Statistics Best Practices'
 hide_from_announcments: true
 ---
 
@@ -13,5 +13,5 @@ hide_from_announcments: true
 
 **In Class:** 
 <!-- \[[slides](https://docs.google.com/presentation/d/1wBfjEHBV3rQMMJvtM4iwnaJoo8Jmmqc1/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true){:target="_blank"}{:rel="noopener noreferrer"}\] -->
-* Guest: Members of the Embedded EthiCS team <!-- [Dr. Trystan Goetze](https://www.trystangoetze.ca/){:target="_blank"}{:rel="noopener noreferrer"} ([Embedded EthiCS](https://embeddedethics.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}) -->
+* Guest: TBD
 

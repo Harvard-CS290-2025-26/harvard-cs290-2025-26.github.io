@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2026-03-14T09:45:00
+date: 2026-03-13T09:45:00
 name: Class
 description: 'Mental Health in Academia'
 hide_from_announcments: true
@@ -15,6 +15,6 @@ hide_from_announcments: true
 
 
 **In Class:** 
-* Guests: [Olivia Fitzpatrick](https://weiszlab.fas.harvard.edu/olivia-fitzpatrick){:target="_blank"}{:rel="noopener noreferrer"} and [Daniel Coppersmith](https://nocklab.fas.harvard.edu/people/daniel-coppersmith){:target="_blank"}{:rel="noopener noreferrer"}
-* [Workshop on mental health](https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_gale_infotracacademiconefile_A667643894){:target="_blank"}{:rel="noopener noreferrer"}
+* Guests: [Jordan Zimmerman](https://hooleylab.psych.fas.harvard.edu/people/jordan-zimmerman){:target="_blank"}{:rel="noopener noreferrer"} and [Gabi Ferris-Hamlett](https://psychology.fas.harvard.edu/people/gabriella-hamlett){:target="_blank"}{:rel="noopener noreferrer"}
+<!-- * [Workshop on mental health](https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_gale_infotracacademiconefile_A667643894){:target="_blank"}{:rel="noopener noreferrer"} -->
 * Special note: *no faculty present*
