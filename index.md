@@ -34,8 +34,8 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Office Hours:** 
 * Alex: Tuesdays 10:30-11:30am @ SEC 3.416
-* Sonja: Fridays 11:45am-12:45pm @ SEC 2.118
-* Yiling: TBD
+* Sonja: Fridays 11:45am-12:45pm @ SEC 2.118 (or until 75 min after class ends)
+* Yiling: Wednesdays 12:45-1:30pm @ SEC 5.306
 
 
 We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
