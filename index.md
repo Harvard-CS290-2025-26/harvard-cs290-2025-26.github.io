@@ -33,9 +33,9 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Laptops/Phones:** Laptop/tablet/phone use is acceptable when directly tied to classroom activities. We will occasionally have in-class activities that require access to a device. When not engaging in these activities (or active note-taking), please do not use your devices. If you need to quickly fact-check something, you may do so briefly, and then we ask you to stow your device. Some class periods such as student panels will be designated "no devices," even for note-taking.
 
 **Office Hours:** 
-* Alex: Tuesdays 10:30-11:30am @ SEC 3.416
+* Alex: Wednesdays 11:30am-12:30pm @ SEC 3.416
+* Yiling: Wednesdays 12:45pm-1:30pm @ SEC 5.306
 * Sonja: Fridays 11:45am-12:45pm @ SEC 2.118 (or until 75 min after class ends)
-* Yiling: Wednesdays 12:45-1:30pm @ SEC 5.306
 
 
 We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
